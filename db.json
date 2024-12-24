@@ -1,0 +1,66 @@
+{
+    "users": [
+        {
+            "id": "1",
+            "name": "Seba",
+            "email": "sebawaheb@gmail.com",
+            "password": "ABC123",
+            "isAdmin": true
+        },
+        {
+            "id": "2",
+            "name": "Liat",
+            "email": "Liat@gmail.com",
+            "password": "BlaBla",
+            "isAdmin": false
+        },
+        {
+            "id": "66a3",
+            "name": "seba",
+            "email": "seren@gmail.com",
+            "password": "sdavsdv",
+            "isAdmin": false
+        },
+        {
+            "id": "392c",
+            "name": "seba",
+            "email": "sereab@gmail.com",
+            "password": "S122233",
+            "isAdmin": false
+        }
+    ],
+    "products": [
+        {
+            "name": "Iphone 16 pro",
+            "price": 999,
+            "category": "Smartphone",
+            "description": "The new Iphone 16 pro with storage of 256GB",
+            "image": "https://www.idigital.co.il/files/iPhone_16_Pro_PDP/%E2%80%8EiPhone16Pro.png",
+            "id": "1"
+        },
+        {
+            "name": "MacBook Pro",
+            "price": 1600,
+            "category": "SmartMacBook ",
+            "description": "10-Core CPU, 10-Core GPU, 16GB Unified Memory, 512GB SSD Storage¹",
+            "image": "https://www.idigital.co.il/files/MacBook%20Pro%20M3%20%D7%A2%D7%9E%D7%95%D7%93%20%D7%9E%D7%95%D7%A6%D7%A8/%E2%80%8EMacBook_Pro_M3_Max_Space_Black.png",
+            "id": 2
+        },
+        {
+            "name": "Apple Watch Ultra 2",
+            "price": 1000,
+            "category": "Smart Watch",
+            "description": "Featuring a stunning, new black titanium case, Apple Watch Ultra 2",
+            "image": "https://www.idigital.co.il/files/AW_Ultra2_2024/%E2%80%8EUltra2_Natural_Titanium_Alpine_Loop_Tan.png",
+            "id": "3"
+        },
+        {
+            "id": "b0a9",
+            "name": "AirPods Pro 2",
+            "price": 249,
+            "category": "SmartAirPods",
+            "description": "Pro-level Active Noise Cancellation. Footnote ³ Now with a clinical-grade Hearing Aid Footnote ⁵ feature. Footnote ¹⁶",
+            "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/airpods-pro-2-hero-select-202409_FV1?wid=976&hei=916&fmt=jpeg&qlt=90&.v=1725492499003"
+        }
+    ]
+}
